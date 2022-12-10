@@ -1,5 +1,3 @@
-
-
 # YOLOv7 Image and Video Inference with UI
 
 This project is made for having quick inferences and makes the job easier for end users.
@@ -22,7 +20,8 @@ As you can see above, this project can also work on mid-segment systems.
 
 ![into gif](https://github.com/oguzaybilir/YOLOv7-Predict-with-UI/blob/main/gif/video.gif)
 
-
+Read from:
+https://github.com/oguzaybilir/YOLOv7-Predict-with-UI
 
 ## Cloning the Repository
 
